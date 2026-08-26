@@ -98,7 +98,7 @@ This project was designed and built by **Aaron Vyaleveka**.
 Feel free to reach out:
 
 - 🌐 Portfolio: [aaron-portfolio.hakademia.dev](https://aaron-portfolio.hakademia.dev)
-- 💌 Email: [arrowvyaleveka@gmail.com](mailto:arrowvyaleveka@gmail.com) · [aaron@hakademia.dev](mailto:aaron@hakademia.dev)
+- 💌 Email: [arrowvyaleveka@gmail.com](mailto:arrowvyaleveka@gmail.com) · [dev@hakademia.dev](mailto:dev@hakademia.dev)
 - 💼 LinkedIn: [Aaron Vyaleveka](https://www.linkedin.com/in/aaron-vyaleveka-04877b369/)
 - 🐙 GitHub: [@AaronDAmin](https://github.com/AaronDAmin)
 
